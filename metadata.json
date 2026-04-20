@@ -1,0 +1,8 @@
+{
+  "name": "The Oversight Committee - VS Clarity Index",
+  "description": "A sophisticated analytical platform for deconstructing corporate AI governance reports, featuring the VS Clarity Index™, rhetorical analysis, and historical pattern recognition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
